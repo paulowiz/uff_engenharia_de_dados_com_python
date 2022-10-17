@@ -25,7 +25,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 🤔 Problema 
-USPTO - United States Patent Trade Office precisa de sua ajuda para analisar as patentes dos anos de 2010 até 2022. Precisamos montar uma base com o numbero do documento, titulo da patente, abstract e sua data da publicação.
+USPTO - United States Patent Trade Office precisa de sua ajuda para analizar as patentes dos anos de 2010 até 2022. Precisamos montar uma base com o numbero do documento, titulo da patente, abstract e sua data da publicação.
 
 
 
