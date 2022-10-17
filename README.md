@@ -35,7 +35,7 @@ USPTO - United States Patent Trade Office precisa de sua ajuda para analisar as 
 
 <!-- INSTALLATION -->
 
-## 🔨 Installation and Running
+## 🔨 Instalação e running 
 
 1. Run the jupyter notebook 
 
