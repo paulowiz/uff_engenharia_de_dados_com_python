@@ -12,7 +12,7 @@
    Engenharia de Dados com Python 
   </h3> 
   <p align="center">
-    <img alt="Disaster" src="https://insightlab.ufc.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/09/Minerando-Dados-%E2%80%BA-Por-que-o-Python-%C3%A9-a-Linguagem.jpg.webp", width=500px, wight=250px>
+    <img alt="dev" src="https://insightlab.ufc.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/09/Minerando-Dados-%E2%80%BA-Por-que-o-Python-%C3%A9-a-Linguagem.jpg.webp", width=500px, wight=250px>
     <br />
     <br />
     <a href="https://github.com/paulowiz/uff_engenharia_de_dados_com_python/issues">Report Bug</a>
@@ -58,6 +58,15 @@ USPTO - United States Patent Trade Office precisa de sua ajuda para analizar as 
   - Salvar logs de erros 
 - Carregamento
   - Carregar os dados limpos no banco de dados
+
+## :earth_americas: Parceria
+
+- Universidade Federal Fluminence
+- KISSPlatform Europe B.V.
+
+![logo-KISSPlatform](https://user-images.githubusercontent.com/18649504/196274572-a854b3eb-1f25-4037-854e-6d046c25088e.svg)
+
+<img src="https://user-images.githubusercontent.com/18649504/196275688-d5946cdb-b214-4ff6-90fe-5a9faa83d472.png" width="200" height="200" />
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
