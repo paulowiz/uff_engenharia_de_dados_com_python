@@ -24,6 +24,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
+LINK APRESENTAÇÃO SLIDES: https://www.canva.com/design/DAFOmDZrmQs/yHFeNY5o-9A5k_NP3BepvA/view?utm_content=DAFOmDZrmQs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## 🤔 Problema 
 USPTO - United States Patent Trade Office precisa de sua ajuda para analizar as patentes dos anos de 2010 até 2022. Precisamos montar uma base com o numbero do documento, titulo da patente, abstract e sua data da publicação.
 
@@ -68,6 +69,14 @@ USPTO - United States Patent Trade Office precisa de sua ajuda para analizar as 
 
 <img src="https://user-images.githubusercontent.com/18649504/196275688-d5946cdb-b214-4ff6-90fe-5a9faa83d472.png" width="200" height="200" />
 
+## :earth_americas: Resultado Enquetes 
+![image](https://user-images.githubusercontent.com/18649504/196305537-792f5627-62fd-4bf3-be44-e39f99cd17fd.png)
+![image](https://user-images.githubusercontent.com/18649504/196305567-8c45de6d-c880-45c5-be8c-20d08647fb25.png)
+![image](https://user-images.githubusercontent.com/18649504/196305580-91ae65c5-6920-40ad-ab22-2da9a40c9e76.png)
+
+
+- Universidade Federal Fluminence
+- KISSPlatform Europe B.V.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
